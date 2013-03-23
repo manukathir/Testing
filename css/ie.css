@@ -1,0 +1,17 @@
+/* CSS Document */
+ul, ol, dir, menu {
+zoom:1;
+}
+
+a { color:expression(this.parentNode.currentStyle['color']); }
+p{zoom:1;}
+
+.clearfix, .relatposition
+{
+	zoom:1;
+}
+.right_sub .ddlinner, .calculator_info .common_info .left_sub, .calculated_result_main ul.feature li.column6 a
+{
+	zoom:1;
+}
+
